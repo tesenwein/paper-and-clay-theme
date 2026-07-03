@@ -10,6 +10,7 @@ Originally bundled with the [Code Workbench](https://github.com/tesenwein/code-w
 
 1. Build or download `paper-and-clay-theme-<version>.vsix`.
 2. In VS Code: **Extensions** view → `⋯` menu → **Install from VSIX…** → select the file.
+   (Prebuilt VSIX files are attached to each [GitHub Release](https://github.com/tesenwein/paper-and-clay-theme/releases).)
 3. **Preferences: Color Theme** → **Paper & Clay**.
 
 ### Build a VSIX
